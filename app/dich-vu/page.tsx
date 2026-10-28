@@ -572,8 +572,8 @@ export default function DichVuPage() {
         </div>
 
         <div className="mx-auto mt-10 max-w-7xl border-t border-white/10 pt-5 text-xs leading-6 text-slate-500">
-          © {new Date().getFullYear()} INTES · Website demo. Thông tin
-          dịch vụ cần được xác nhận trước khi công bố chính thức.
+© 2026 VIVAFIRE · Website demo. Thông tin
+dịch vụ cần được xác nhận trước khi công bố chính thức.
         </div>
       </footer>
     </main>

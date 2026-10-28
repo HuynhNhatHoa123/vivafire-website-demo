@@ -1,3 +1,4 @@
+
 import Image from "next/image";
 import { notFound } from "next/navigation";
 
@@ -7,7 +8,7 @@ const products = [
     name: "Tủ trung tâm báo cháy",
     model: "INT-FACP-001",
     category: "Báo cháy",
-    brand: "INTES Demo",
+    brand: "VIVAFIRE Demo",
     image:
       "https://images.unsplash.com/photo-1581092160562-40aa08e78837?auto=format&fit=crop&w=1200&q=85",
     summary:
@@ -23,7 +24,7 @@ const products = [
     specifications: [
       ["Mã sản phẩm", "INT-FACP-001"],
       ["Danh mục", "Báo cháy"],
-      ["Thương hiệu", "INTES Demo"],
+      ["Thương hiệu", "VIVAFIRE Demo"],
       ["Tình trạng thông tin", "Dữ liệu minh họa"],
       ["Thông số kỹ thuật", "Cần xác nhận theo model thực tế"],
     ],
@@ -33,7 +34,7 @@ const products = [
     name: "Đầu báo khói",
     model: "INT-SD-002",
     category: "Báo cháy",
-    brand: "INTES Demo",
+    brand: "VIVAFIRE Demo",
     image:
       "https://images.unsplash.com/photo-1581092921461-eab62e97a780?auto=format&fit=crop&w=1200&q=85",
     summary:
@@ -49,7 +50,7 @@ const products = [
     specifications: [
       ["Mã sản phẩm", "INT-SD-002"],
       ["Danh mục", "Báo cháy"],
-      ["Thương hiệu", "INTES Demo"],
+      ["Thương hiệu", "VIVAFIRE Demo"],
       ["Tình trạng thông tin", "Dữ liệu minh họa"],
       ["Thông số kỹ thuật", "Cần xác nhận theo model thực tế"],
     ],
@@ -59,11 +60,10 @@ const products = [
     name: "Thiết bị cảnh báo",
     model: "INT-ALM-003",
     category: "Báo cháy",
-    brand: "INTES Demo",
+    brand: "VIVAFIRE Demo",
     image:
       "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=85",
-    summary:
-      "Thiết bị minh họa cho nhóm cảnh báo và thông báo sự cố.",
+    summary: "Thiết bị minh họa cho nhóm cảnh báo và thông báo sự cố.",
     description:
       "Dữ liệu dùng để trình bày giao diện sản phẩm. Cần thay bằng thông tin chính thức của thiết bị trước khi công bố.",
     features: [
@@ -75,7 +75,7 @@ const products = [
     specifications: [
       ["Mã sản phẩm", "INT-ALM-003"],
       ["Danh mục", "Báo cháy"],
-      ["Thương hiệu", "INTES Demo"],
+      ["Thương hiệu", "VIVAFIRE Demo"],
       ["Tình trạng thông tin", "Dữ liệu minh họa"],
       ["Thông số kỹ thuật", "Cần xác nhận theo model thực tế"],
     ],
@@ -85,7 +85,7 @@ const products = [
     name: "Thiết bị chữa cháy",
     model: "INT-FIRE-004",
     category: "Chữa cháy",
-    brand: "INTES Demo",
+    brand: "VIVAFIRE Demo",
     image:
       "https://images.unsplash.com/photo-1581092334651-ddf26d9a09d0?auto=format&fit=crop&w=1200&q=85",
     summary:
@@ -101,7 +101,7 @@ const products = [
     specifications: [
       ["Mã sản phẩm", "INT-FIRE-004"],
       ["Danh mục", "Chữa cháy"],
-      ["Thương hiệu", "INTES Demo"],
+      ["Thương hiệu", "VIVAFIRE Demo"],
       ["Tình trạng thông tin", "Dữ liệu minh họa"],
       ["Thông số kỹ thuật", "Cần xác nhận theo model thực tế"],
     ],
@@ -111,11 +111,10 @@ const products = [
     name: "Van và phụ kiện đường ống",
     model: "INT-VALVE-005",
     category: "Chữa cháy",
-    brand: "INTES Demo",
+    brand: "VIVAFIRE Demo",
     image:
       "https://images.unsplash.com/photo-1530124566582-a618bc2615dc?auto=format&fit=crop&w=1200&q=85",
-    summary:
-      "Nhóm phụ kiện minh họa cho hệ thống đường ống kỹ thuật.",
+    summary: "Nhóm phụ kiện minh họa cho hệ thống đường ống kỹ thuật.",
     description:
       "Thông số kích thước, vật liệu, áp suất làm việc và tiêu chuẩn phải được bổ sung từ hồ sơ sản phẩm thực tế.",
     features: [
@@ -127,7 +126,7 @@ const products = [
     specifications: [
       ["Mã sản phẩm", "INT-VALVE-005"],
       ["Danh mục", "Chữa cháy"],
-      ["Thương hiệu", "INTES Demo"],
+      ["Thương hiệu", "VIVAFIRE Demo"],
       ["Tình trạng thông tin", "Dữ liệu minh họa"],
       ["Thông số kỹ thuật", "Cần xác nhận theo model thực tế"],
     ],
@@ -137,11 +136,10 @@ const products = [
     name: "Thiết bị bơm công nghiệp",
     model: "INT-PUMP-006",
     category: "Bơm & cấp nước",
-    brand: "INTES Demo",
+    brand: "VIVAFIRE Demo",
     image:
       "https://images.unsplash.com/photo-1581093458791-9d42e3c9a7e5?auto=format&fit=crop&w=1200&q=85",
-    summary:
-      "Nhóm thiết bị bơm minh họa cho danh mục cơ điện và cấp nước.",
+    summary: "Nhóm thiết bị bơm minh họa cho danh mục cơ điện và cấp nước.",
     description:
       "Lưu lượng, cột áp, công suất và thông số vận hành phải được xác nhận theo model bơm thực tế.",
     features: [
@@ -153,7 +151,7 @@ const products = [
     specifications: [
       ["Mã sản phẩm", "INT-PUMP-006"],
       ["Danh mục", "Bơm & cấp nước"],
-      ["Thương hiệu", "INTES Demo"],
+      ["Thương hiệu", "VIVAFIRE Demo"],
       ["Tình trạng thông tin", "Dữ liệu minh họa"],
       ["Thông số kỹ thuật", "Cần xác nhận theo model thực tế"],
     ],
@@ -163,11 +161,10 @@ const products = [
     name: "Thiết bị an toàn công trình",
     model: "INT-SAFE-007",
     category: "An toàn",
-    brand: "INTES Demo",
+    brand: "VIVAFIRE Demo",
     image:
       "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1200&q=85",
-    summary:
-      "Nhóm thiết bị minh họa cho danh mục an toàn công trình.",
+    summary: "Nhóm thiết bị minh họa cho danh mục an toàn công trình.",
     description:
       "Sản phẩm được dùng để trình diễn giao diện. Chủng loại và công năng thực tế cần được xác nhận.",
     features: [
@@ -179,7 +176,7 @@ const products = [
     specifications: [
       ["Mã sản phẩm", "INT-SAFE-007"],
       ["Danh mục", "An toàn"],
-      ["Thương hiệu", "INTES Demo"],
+      ["Thương hiệu", "VIVAFIRE Demo"],
       ["Tình trạng thông tin", "Dữ liệu minh họa"],
       ["Thông số kỹ thuật", "Cần xác nhận theo model thực tế"],
     ],
@@ -189,11 +186,10 @@ const products = [
     name: "Thiết bị kỹ thuật",
     model: "INT-TECH-008",
     category: "An toàn",
-    brand: "INTES Demo",
+    brand: "VIVAFIRE Demo",
     image:
       "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?auto=format&fit=crop&w=1200&q=85",
-    summary:
-      "Mục sản phẩm mẫu để minh họa khả năng tra cứu và gửi yêu cầu.",
+    summary: "Mục sản phẩm mẫu để minh họa khả năng tra cứu và gửi yêu cầu.",
     description:
       "Nội dung kỹ thuật sẽ được thay bằng dữ liệu sản phẩm được doanh nghiệp xác nhận.",
     features: [
@@ -205,12 +201,20 @@ const products = [
     specifications: [
       ["Mã sản phẩm", "INT-TECH-008"],
       ["Danh mục", "An toàn"],
-      ["Thương hiệu", "INTES Demo"],
+      ["Thương hiệu", "VIVAFIRE Demo"],
       ["Tình trạng thông tin", "Dữ liệu minh họa"],
       ["Thông số kỹ thuật", "Cần xác nhận theo model thực tế"],
     ],
   },
 ];
+
+type Product = (typeof products)[number];
+
+export function generateStaticParams() {
+  return products.map((product) => ({
+    slug: product.id,
+  }));
+}
 
 export default async function ProductDetailPage({
   params,
@@ -218,7 +222,9 @@ export default async function ProductDetailPage({
   params: Promise<{ slug: string }>;
 }) {
   const { slug } = await params;
-  const product = products.find((item) => item.id === slug.toLowerCase());
+  const product: Product | undefined = products.find(
+    (item) => item.id === slug.toLowerCase(),
+  );
 
   if (!product) {
     notFound();
@@ -228,11 +234,15 @@ export default async function ProductDetailPage({
     <main className="min-h-screen bg-white text-slate-900">
       <div className="border-b border-slate-200 bg-slate-50">
         <div className="mx-auto max-w-7xl px-5 py-5 text-sm text-slate-500 lg:px-8">
-          <a href="/" className="hover:text-blue-800">Trang chủ</a>
+          <a href="/" className="hover:text-orange-600">
+            Trang chủ
+          </a>
           <span className="mx-2">/</span>
-          <a href="/san-pham" className="hover:text-blue-800">Sản phẩm</a>
+          <a href="/san-pham" className="hover:text-orange-600">
+            Sản phẩm
+          </a>
           <span className="mx-2">/</span>
-          <span className="text-blue-950">{product.name}</span>
+          <span className="text-slate-900">{product.name}</span>
         </div>
       </div>
 
@@ -248,7 +258,7 @@ export default async function ProductDetailPage({
               sizes="(max-width: 1024px) 100vw, 50vw"
               className="object-cover"
             />
-            <div className="absolute left-4 top-4 rounded-lg bg-white/95 px-4 py-2 text-xs font-bold text-blue-950">
+            <div className="absolute left-4 top-4 rounded-lg bg-white/95 px-4 py-2 text-xs font-bold text-slate-900">
               {product.category}
             </div>
           </div>
@@ -271,14 +281,15 @@ export default async function ProductDetailPage({
           <div className="text-xs font-bold uppercase tracking-[0.2em] text-orange-600">
             Product information
           </div>
-          <h1 className="mt-4 text-3xl font-semibold leading-tight tracking-tight text-blue-950 sm:text-4xl">
+          <h1 className="mt-4 text-3xl font-semibold leading-tight tracking-tight text-slate-900 sm:text-4xl">
             {product.name}
           </h1>
+
           <div className="mt-5 flex flex-wrap gap-3 text-sm">
             <span className="rounded-md bg-slate-100 px-3 py-2 text-slate-600">
-              Mã hàng: <strong className="text-blue-950">{product.model}</strong>
+              Mã hàng: <strong className="text-slate-900">{product.model}</strong>
             </span>
-            <span className="rounded-md bg-blue-50 px-3 py-2 text-blue-900">
+            <span className="rounded-md bg-orange-50 px-3 py-2 text-orange-800">
               {product.brand}
             </span>
           </div>
@@ -288,7 +299,7 @@ export default async function ProductDetailPage({
           </p>
 
           <div className="mt-8 rounded-2xl border border-slate-200 p-5 sm:p-6">
-            <div className="text-sm font-bold text-blue-950">
+            <div className="text-sm font-bold text-slate-900">
               Bạn cần báo giá sản phẩm này?
             </div>
             <p className="mt-2 text-sm leading-6 text-slate-500">
@@ -304,7 +315,7 @@ export default async function ProductDetailPage({
               </a>
               <a
                 href="/lien-he"
-                className="inline-flex items-center justify-center rounded-lg border border-slate-200 px-5 py-4 text-sm font-bold text-blue-950 transition hover:bg-slate-50"
+                className="inline-flex items-center justify-center rounded-lg border border-slate-200 px-5 py-4 text-sm font-bold text-slate-900 transition hover:bg-slate-50"
               >
                 Liên hệ tư vấn
               </a>
@@ -312,12 +323,15 @@ export default async function ProductDetailPage({
           </div>
 
           <div className="mt-9">
-            <h2 className="text-xl font-bold text-blue-950">
+            <h2 className="text-xl font-bold text-slate-900">
               Đặc điểm thông tin
             </h2>
             <div className="mt-4 space-y-3">
               {product.features.map((feature) => (
-                <div key={feature} className="flex items-start gap-3 text-sm leading-6 text-slate-600">
+                <div
+                  key={feature}
+                  className="flex items-start gap-3 text-sm leading-6 text-slate-600"
+                >
                   <span className="mt-0.5 text-emerald-600">✓</span>
                   <span>{feature}</span>
                 </div>
@@ -334,7 +348,7 @@ export default async function ProductDetailPage({
               <div className="text-xs font-bold uppercase tracking-[0.2em] text-orange-600">
                 Technical information
               </div>
-              <h2 className="mt-3 text-2xl font-semibold text-blue-950">
+              <h2 className="mt-3 text-2xl font-semibold text-slate-900">
                 Thông số & tài liệu
               </h2>
               <p className="mt-4 text-sm leading-7 text-slate-500">
@@ -358,15 +372,16 @@ export default async function ProductDetailPage({
                   }`}
                 >
                   <div className="text-sm text-slate-500">{label}</div>
-                  <div className="text-sm font-semibold text-blue-950">
+                  <div className="text-sm font-semibold text-slate-900">
                     {value}
                   </div>
                 </div>
               ))}
+
               <div className="border-t border-slate-200 bg-slate-50 p-5">
                 <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
                   <div>
-                    <div className="font-bold text-blue-950">
+                    <div className="font-bold text-slate-900">
                       Cần tài liệu kỹ thuật?
                     </div>
                     <p className="mt-1 text-sm text-slate-500">
@@ -375,7 +390,7 @@ export default async function ProductDetailPage({
                   </div>
                   <a
                     href={`/lien-he?product=${product.id}`}
-                    className="rounded-lg border border-blue-950 px-4 py-3 text-center text-sm font-bold text-blue-950 transition hover:bg-blue-950 hover:text-white"
+                    className="rounded-lg border border-slate-900 px-4 py-3 text-center text-sm font-bold text-slate-900 transition hover:bg-slate-900 hover:text-white"
                   >
                     Yêu cầu tài liệu ↗
                   </a>
@@ -387,12 +402,12 @@ export default async function ProductDetailPage({
       </section>
 
       <section className="mx-auto max-w-7xl px-5 py-12 lg:px-8 lg:py-16">
-        <div className="flex flex-col justify-between gap-5 rounded-2xl bg-blue-950 p-7 text-white sm:flex-row sm:items-center sm:p-10">
+        <div className="flex flex-col justify-between gap-5 rounded-2xl bg-slate-900 p-7 text-white sm:flex-row sm:items-center sm:p-10">
           <div>
             <h2 className="text-2xl font-semibold">
               Cần hỗ trợ lựa chọn thiết bị?
             </h2>
-            <p className="mt-3 max-w-2xl text-sm leading-7 text-blue-100/80">
+            <p className="mt-3 max-w-2xl text-sm leading-7 text-slate-300">
               Gửi yêu cầu để trao đổi về nhu cầu, thông số và phương án báo giá.
             </p>
           </div>
@@ -400,14 +415,14 @@ export default async function ProductDetailPage({
             href="/lien-he"
             className="inline-flex shrink-0 items-center justify-center rounded-lg bg-orange-500 px-6 py-4 text-sm font-bold text-white hover:bg-orange-600"
           >
-            Liên hệ INTES ↗
+            Liên hệ tư vấn ↗
           </a>
         </div>
 
         <div className="mt-8">
           <a
             href="/san-pham"
-            className="text-sm font-bold text-blue-950 hover:text-orange-600"
+            className="text-sm font-bold text-slate-900 hover:text-orange-600"
           >
             ← Quay lại danh mục sản phẩm
           </a>
@@ -415,7 +430,9 @@ export default async function ProductDetailPage({
       </section>
 
       <footer className="bg-slate-950 px-5 py-8 text-center text-sm text-slate-400">
-        <a href="/" className="font-black tracking-[0.2em] text-white">INTES</a>
+        <a href="/" className="font-black tracking-[0.2em] text-white">
+          VIVAFIRE
+        </a>
         <p className="mt-3">
           Website demo · Thông số và tài liệu cần được xác nhận trước khi công bố.
         </p>
