@@ -470,7 +470,7 @@ export default function GiaiPhapPage() {
         </div>
 
         <div className="mx-auto mt-12 flex max-w-7xl flex-col gap-3 border-t border-white/10 pt-6 text-xs leading-6 text-slate-500 sm:flex-row sm:items-center sm:justify-between">
-          <p>© {new Date().getFullYear()} INTES · Website demo</p>
+          <p>© 2026 VIVAFIRE · Website demo</p>
           <p>Hình ảnh và nội dung minh họa · Cần xác nhận trước khi sử dụng chính thức</p>
         </div>
       </footer>
