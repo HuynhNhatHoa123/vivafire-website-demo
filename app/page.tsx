@@ -427,9 +427,7 @@ export default function HomePage() {
               </SectionTitle>
 
               <p className="mt-3.5 max-w-[62ch] text-[15px] leading-[1.85] text-[#5B6472]">
-                Một số công trình tham khảo trong danh mục dự án. Hình ảnh,
-                thông tin và phạm vi công việc cần được đối chiếu với hồ sơ
-                chính thức trước khi công bố.
+                
               </p>
             </div>
 
@@ -669,7 +667,7 @@ export default function HomePage() {
           <div className="mt-10 flex flex-wrap justify-between gap-2 border-t border-white/10 pt-4 text-xs leading-5 text-[#B9C0CA]">
             <span>© 2026 VIVAFIRE. All rights reserved.</span>
             <span>
-              Thông tin và hình ảnh cần được xác nhận trước khi công bố.
+              
             </span>
           </div>
         </div>

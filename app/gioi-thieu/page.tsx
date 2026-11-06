@@ -700,112 +700,191 @@ export default function GioiThieuPage() {
         </div>
       </section>
 
-      {/* CONTACT CTA */}
-      <section className="px-5 py-16 sm:py-20 lg:px-8 lg:py-24">
-        <div className="relative mx-auto max-w-7xl overflow-hidden bg-[#F58220] px-6 py-10 sm:px-10 sm:py-12 lg:px-14 lg:py-14">
-          <div className="absolute -right-10 -top-20 h-64 w-64 rounded-full border-[40px] border-white/10" />
-          <div className="absolute -bottom-28 right-48 h-64 w-64 rounded-full border-[30px] border-white/10" />
+     
+{/* CONTACT CTA */}
+<section className="bg-[#F7F7F6] px-5 py-16 sm:py-20 lg:px-8 lg:py-24">
+  <div className="relative mx-auto max-w-7xl overflow-hidden bg-[#20242B]">
+    {/* Decorative elements */}
+    <div className="pointer-events-none absolute -right-24 -top-32 h-96 w-96 rounded-full border border-white/[0.08]" />
+    <div className="pointer-events-none absolute -right-8 -top-16 h-64 w-64 rounded-full border border-white/[0.08]" />
+    <div className="pointer-events-none absolute bottom-0 right-0 h-1 w-1/3 bg-[#F58220]" />
 
-          <div className="relative grid gap-8 lg:grid-cols-[1fr_auto] lg:items-center">
-            <div className="max-w-3xl">
-              <p className="text-xs font-bold uppercase tracking-[0.17em] text-white/80">
-                Liên hệ VIVAFIRE
-              </p>
-              <h2 className="mt-4 text-3xl font-bold leading-tight tracking-[-0.03em] text-white sm:text-4xl">
-                Cùng tìm giải pháp phù hợp cho công trình của bạn
-              </h2>
-              <p className="mt-4 max-w-2xl text-sm leading-7 text-white/85 sm:text-base sm:leading-8">
-                Trao đổi với VIVAFIRE về nhu cầu thiết bị, hệ thống phòng cháy
-                chữa cháy và các hạng mục kỹ thuật của dự án.
-              </p>
-            </div>
-
-            <Link
-              href="/lien-he"
-              className="inline-flex min-h-12 w-fit items-center justify-center gap-3 bg-[#20242B] px-6 py-3 text-sm font-bold text-white transition hover:bg-[#353A43]"
-            >
-              Liên hệ tư vấn <span aria-hidden="true">↗</span>
-            </Link>
-          </div>
-        </div>
-      </section>
-
-      {/* FOOTER */}
-      <footer className="bg-[#20242B] text-white">
-        <div className="mx-auto grid max-w-7xl gap-9 px-5 py-12 sm:grid-cols-2 lg:grid-cols-[1.25fr_0.8fr_0.8fr_1.1fr] lg:gap-10 lg:px-8 lg:py-14">
-          <div>
-            <Link
-              href="/"
-              className="inline-flex items-center gap-2 text-2xl font-black tracking-[0.08em]"
-            >
-              <span className="flex h-9 w-9 items-center justify-center bg-[#F58220] text-lg text-white">
-                V
-              </span>
-              VIVAFIRE
-            </Link>
-            <p className="mt-3 text-[10px] font-bold tracking-[0.16em] text-white/45">
-              TECHNOLOGY SERVICES
-            </p>
-            <p className="mt-5 max-w-[38ch] text-sm leading-7 text-white/65">
-              Năng lực kỹ thuật, sự tin cậy và trách nhiệm trong từng cam kết
-              hợp tác.
-            </p>
-          </div>
-
-          <div>
-            <h3 className="text-sm font-bold">Khám phá</h3>
-            <div className="mt-5 grid gap-3 text-sm text-white/65">
-              <Link className="transition hover:text-[#FFAD64]" href="/san-pham">
-                Sản phẩm
-              </Link>
-              <Link className="transition hover:text-[#FFAD64]" href="/giai-phap">
-                Giải pháp
-              </Link>
-              <Link className="transition hover:text-[#FFAD64]" href="/dich-vu">
-                Dịch vụ
-              </Link>
-              <Link className="transition hover:text-[#FFAD64]" href="/du-an">
-                Dự án
-              </Link>
-            </div>
-          </div>
-
-          <div>
-            <h3 className="text-sm font-bold">Thông tin</h3>
-            <div className="mt-5 grid gap-3 text-sm text-white/65">
-              <Link className="transition hover:text-[#FFAD64]" href="/gioi-thieu">
-                Giới thiệu
-              </Link>
-              <Link className="transition hover:text-[#FFAD64]" href="/tai-lieu">
-                Tài liệu kỹ thuật
-              </Link>
-              <Link className="transition hover:text-[#FFAD64]" href="/lien-he">
-                Liên hệ
-              </Link>
-            </div>
-          </div>
-
-          <div>
-            <h3 className="text-sm font-bold">Doanh nghiệp</h3>
-            <p className="mt-4 text-sm leading-7 text-white/65">
-              Công ty Cổ phần Dịch vụ Công nghệ VIVAFIRE
-            </p>
-            <p className="mt-2 text-sm leading-7 text-white/65">
-              Mã số doanh nghiệp: 0316732553
-            </p>
-            <Link
-              href="/lien-he"
-              className="mt-5 inline-flex min-h-10 items-center border border-white/25 px-4 py-2 text-sm font-semibold transition hover:border-[#FF9A3D] hover:bg-white/5"
-            >
-              Gửi yêu cầu tư vấn ↗
-            </Link>
-          </div>
+    <div className="relative grid gap-10 px-7 py-12 sm:px-10 sm:py-14 lg:grid-cols-[1fr_0.65fr] lg:items-center lg:gap-16 lg:px-16 lg:py-16">
+      {/* Left content */}
+      <div className="max-w-3xl">
+        <div className="inline-flex items-center gap-3">
+          <span className="h-[2px] w-8 bg-[#F58220]" />
+          <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#FFAD64]">
+            Kết nối cùng VIVAFIRE
+          </p>
         </div>
 
-        <div className="border-t border-white/10">
-          <div className="mx-auto flex max-w-7xl flex-col gap-2 px-5 py-4 text-xs leading-5 text-white/40 sm:flex-row sm:justify-between lg:px-8">
+        <h2 className="mt-7 max-w-[18ch] text-3xl font-bold leading-[1.2] tracking-[-0.035em] text-white sm:text-4xl lg:text-[46px]">
+          Giải pháp kỹ thuật phù hợp.
+          <span className="block text-[#FF9A3D]">
+            Đồng hành cùng công trình.
+          </span>
+        </h2>
+
+        <p className="mt-6 max-w-2xl text-sm leading-7 text-white/65 sm:text-base sm:leading-8">
+          Từ nhu cầu thiết bị, hệ thống phòng cháy chữa cháy đến các hạng mục
+          kỹ thuật công trình, VIVAFIRE sẵn sàng trao đổi để cùng khách hàng
+          tìm ra phương án phù hợp với yêu cầu thực tế.
+        </p>
+      </div>
+
+      {/* Right action panel */}
+      <div className="relative border border-white/15 bg-white/[0.04] p-6 sm:p-8">
+        <p className="text-xs font-bold uppercase tracking-[0.16em] text-white/45">
+          Bắt đầu trao đổi
+        </p>
+
+        <h3 className="mt-4 text-xl font-bold leading-snug text-white sm:text-2xl">
+          Bạn đang cần tư vấn cho dự án?
+        </h3>
+
+        <p className="mt-3 text-sm leading-7 text-white/60">
+          Gửi thông tin nhu cầu để đội ngũ VIVAFIRE có cơ sở trao đổi và đề
+          xuất hướng giải quyết phù hợp.
+        </p>
+
+        <Link
+          href="/lien-he"
+          className="mt-7 flex min-h-12 w-full items-center justify-center gap-3 bg-[#F58220] px-6 py-3 text-sm font-bold text-white transition hover:bg-[#D96B12]"
+        >
+          Liên hệ tư vấn
+          <span aria-hidden="true">↗</span>
+        </Link>
+
+        <Link
+          href="/san-pham"
+          className="mt-4 flex min-h-11 w-full items-center justify-center border border-white/20 px-6 py-3 text-sm font-semibold text-white/80 transition hover:border-white/50 hover:bg-white/[0.06] hover:text-white"
+        >
+          Khám phá danh mục sản phẩm
+        </Link>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+     {/* 07. FOOTER */}
+      <footer className="bg-[#19202B] py-12 text-white sm:py-14">
+        <div className="mx-auto max-w-[1200px] px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-[1.4fr_1fr_1fr_1.4fr] lg:gap-10">
+            <div>
+              <Link
+                href="/"
+                className="inline-flex items-center"
+                aria-label="VIVAFIRE - Trang chủ"
+              >
+                <img
+                  src="/images/vivafire/logo-vivafire.png"
+                  alt="VIVAFIRE"
+                  className="h-12 w-auto max-w-[230px] object-contain object-left"
+                />
+              </Link>
+
+              <p className="mt-2 text-xs font-semibold uppercase tracking-[0.12em] text-[#B9C0CA]">
+                Giải pháp kỹ thuật PCCC
+              </p>
+
+              <p className="mt-4 max-w-[40ch] text-[15px] leading-6 text-[#B9C0CA]">
+                Kỷ luật trong thực thi, năng lực trong kỹ thuật và chính trực
+                trong từng cam kết.
+              </p>
+            </div>
+
+            <div>
+              <h3 className="mb-3.5 text-[15px] font-bold">Khám phá</h3>
+              <ul className="grid gap-2.5 text-[15px] text-[#B9C0CA]">
+                <li>
+                  <Link className="transition hover:text-[#FF8B14]" href="/san-pham">
+                    Sản phẩm
+                  </Link>
+                </li>
+                <li>
+                  <Link className="transition hover:text-[#FF8B14]" href="/giai-phap">
+                    Giải pháp
+                  </Link>
+                </li>
+                <li>
+                  <Link className="transition hover:text-[#FF8B14]" href="/dich-vu">
+                    Dịch vụ
+                  </Link>
+                </li>
+                <li>
+                  <Link className="transition hover:text-[#FF8B14]" href="/du-an">
+                    Dự án
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
+            <div>
+              <h3 className="mb-3.5 text-[15px] font-bold">Về VIVAFIRE</h3>
+              <ul className="grid gap-2.5 text-[15px] text-[#B9C0CA]">
+                <li>
+                  <Link className="transition hover:text-[#FF8B14]" href="/gioi-thieu">
+                    Giới thiệu công ty
+                  </Link>
+                </li>
+                <li>
+                  <Link className="transition hover:text-[#FF8B14]" href="/tai-lieu">
+                    Tài liệu kỹ thuật
+                  </Link>
+                </li>
+                <li>
+                  <Link className="transition hover:text-[#FF8B14]" href="/lien-he">
+                    Liên hệ
+                  </Link>
+                </li>
+              </ul>
+            </div>
+
+            <div>
+              <h3 className="mb-3.5 text-[15px] font-bold">
+                Thông tin liên hệ
+              </h3>
+
+              <ul className="grid gap-2.5 break-words break-words text-sm leading-6 text-[#B9C0CA]">
+                <li>
+                  <strong className="font-semibold text-white">
+                    Công ty Cổ phần Dịch vụ Công nghệ VIVAFIRE
+                  </strong>
+                </li>
+                <li>
+                  Địa chỉ: 94 Lê Thị Ánh, Phường Đông Hưng Thuận, TP. Hồ Chí Minh
+                </li>
+                <li>
+                  Tel:{" "}
+                  <a
+                    href="tel:02838832325"
+                    className="transition hover:text-[#FF8B14]"
+                  >
+                    028.38832325
+                  </a>
+                </li>
+                <li>
+                  Email:{" "}
+                  <a
+                    href="mailto:commercial@vivafires.com"
+                    className="transition hover:text-[#FF8B14]"
+                  >
+                    commercial@vivafires.com
+                  </a>
+                </li>
+                <li>Website: www.vivafire.vn</li>
+                <li>MST: 0316732553</li>
+              </ul>
+            </div>
+          </div>
+
+          <div className="mt-10 flex flex-wrap justify-between gap-2 border-t border-white/10 pt-4 text-xs leading-5 text-[#B9C0CA]">
             <span>© 2026 VIVAFIRE. All rights reserved.</span>
-            <span>Thông tin cần được xác nhận trước khi công bố chính thức.</span>
+            <span>
+              
+            </span>
           </div>
         </div>
       </footer>
