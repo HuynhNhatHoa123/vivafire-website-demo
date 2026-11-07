@@ -1,0 +1,1220 @@
+[
+  {
+    "excel_row": 4,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-VVD-NG-XX.png",
+    "sha256": "7c592ce27cebcfccb829eb5e099162beddb21342d890328a14f780ab659a88c4",
+    "listed_filename": "Ảnh đại diện danh mục: VVD-NG-XX.png"
+  },
+  {
+    "excel_row": 6,
+    "excel_column": 5,
+    "file": "VVD-NG-XX.png",
+    "sha256": "7c592ce27cebcfccb829eb5e099162beddb21342d890328a14f780ab659a88c4",
+    "listed_filename": "VVD-NG-XX.png"
+  },
+  {
+    "excel_row": 6,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-NG-01.png",
+    "sha256": "d1bb64a5b71219978ab72add9053c3d9f989e75038647bb4ff301ab05aa2a1ac",
+    "listed_filename": "phoi-canh-cua-thep-NG-01.png"
+  },
+  {
+    "excel_row": 6,
+    "excel_column": 7,
+    "file": "phoi-canh-cua-thep-NG-02.png",
+    "sha256": "d76e82c6dcef57d289372ca6496b27bc5df1c01018c7eb715abbc31c8c8311e1",
+    "listed_filename": "phoi-canh-cua-thep-NG-02.png"
+  },
+  {
+    "excel_row": 7,
+    "excel_column": 5,
+    "file": "VVD-NG-XS.png",
+    "sha256": "2389c243bfd4387ca37f1a452789380eb5c53f55ce92a43d62fc18cffc388001",
+    "listed_filename": "VVD-NG-XS.png"
+  },
+  {
+    "excel_row": 7,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-NG-01-row7-col6.png",
+    "sha256": "d1bb64a5b71219978ab72add9053c3d9f989e75038647bb4ff301ab05aa2a1ac",
+    "listed_filename": "phoi-canh-cua-thep-NG-01.png"
+  },
+  {
+    "excel_row": 7,
+    "excel_column": 7,
+    "file": "phoi-canh-cua-thep-NG-02-row7-col7.png",
+    "sha256": "d76e82c6dcef57d289372ca6496b27bc5df1c01018c7eb715abbc31c8c8311e1",
+    "listed_filename": "phoi-canh-cua-thep-NG-02.png"
+  },
+  {
+    "excel_row": 8,
+    "excel_column": 5,
+    "file": "VVD-NG-XH.png",
+    "sha256": "e2a390d65a02bb7c0fa29dd174729b5bfe9c1999f61a5bcf9cc73c2196b0abb4",
+    "listed_filename": "VVD-NG-XH.png"
+  },
+  {
+    "excel_row": 8,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-NG-01-row8-col6.png",
+    "sha256": "d1bb64a5b71219978ab72add9053c3d9f989e75038647bb4ff301ab05aa2a1ac",
+    "listed_filename": "phoi-canh-cua-thep-NG-01.png"
+  },
+  {
+    "excel_row": 8,
+    "excel_column": 7,
+    "file": "phoi-canh-cua-thep-NG-02-row8-col7.png",
+    "sha256": "d76e82c6dcef57d289372ca6496b27bc5df1c01018c7eb715abbc31c8c8311e1",
+    "listed_filename": "phoi-canh-cua-thep-NG-02.png"
+  },
+  {
+    "excel_row": 9,
+    "excel_column": 5,
+    "file": "VVD-NG-XY.png",
+    "sha256": "ef4ca562c539260d16a783a0a6506ac2ababedf3f47217172b9f2673d22a7b17",
+    "listed_filename": "VVD-NG-XY.png"
+  },
+  {
+    "excel_row": 9,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-NG-01-row9-col6.png",
+    "sha256": "d1bb64a5b71219978ab72add9053c3d9f989e75038647bb4ff301ab05aa2a1ac",
+    "listed_filename": "phoi-canh-cua-thep-NG-01.png"
+  },
+  {
+    "excel_row": 9,
+    "excel_column": 7,
+    "file": "phoi-canh-cua-thep-NG-02-row9-col7.png",
+    "sha256": "d76e82c6dcef57d289372ca6496b27bc5df1c01018c7eb715abbc31c8c8311e1",
+    "listed_filename": "phoi-canh-cua-thep-NG-02.png"
+  },
+  {
+    "excel_row": 10,
+    "excel_column": 5,
+    "file": "VVD-NG-ZH.png",
+    "sha256": "bd08ad9514f47342d97c7939343dc803acaef3527f1844cf6beba5a89c293af5",
+    "listed_filename": "VVD-NG-ZH.png"
+  },
+  {
+    "excel_row": 10,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-NG-01-row10-col6.png",
+    "sha256": "d1bb64a5b71219978ab72add9053c3d9f989e75038647bb4ff301ab05aa2a1ac",
+    "listed_filename": "phoi-canh-cua-thep-NG-01.png"
+  },
+  {
+    "excel_row": 10,
+    "excel_column": 7,
+    "file": "phoi-canh-cua-thep-NG-02-row10-col7.png",
+    "sha256": "d76e82c6dcef57d289372ca6496b27bc5df1c01018c7eb715abbc31c8c8311e1",
+    "listed_filename": "phoi-canh-cua-thep-NG-02.png"
+  },
+  {
+    "excel_row": 11,
+    "excel_column": 5,
+    "file": "VVD-NG-ZX.png",
+    "sha256": "ed467cad71d28191398cae9c30a8874a88d6e8db40114636a43ad4646a5070a1",
+    "listed_filename": "VVD-NG-ZX.png"
+  },
+  {
+    "excel_row": 11,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-NG-01-row11-col6.png",
+    "sha256": "d1bb64a5b71219978ab72add9053c3d9f989e75038647bb4ff301ab05aa2a1ac",
+    "listed_filename": "phoi-canh-cua-thep-NG-01.png"
+  },
+  {
+    "excel_row": 11,
+    "excel_column": 7,
+    "file": "phoi-canh-cua-thep-NG-02-row11-col7.png",
+    "sha256": "d76e82c6dcef57d289372ca6496b27bc5df1c01018c7eb715abbc31c8c8311e1",
+    "listed_filename": "phoi-canh-cua-thep-NG-02.png"
+  },
+  {
+    "excel_row": 12,
+    "excel_column": 5,
+    "file": "VVD-NG-KDM.png",
+    "sha256": "be7e35522120998e06cd55cf41197ad42e0c91ff7e9c2289c4c1e66630b53abd",
+    "listed_filename": "VVD-NG-KDM.png"
+  },
+  {
+    "excel_row": 12,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-NG-01-row12-col6.png",
+    "sha256": "d1bb64a5b71219978ab72add9053c3d9f989e75038647bb4ff301ab05aa2a1ac",
+    "listed_filename": "phoi-canh-cua-thep-NG-01.png"
+  },
+  {
+    "excel_row": 12,
+    "excel_column": 7,
+    "file": "phoi-canh-cua-thep-NG-02-row12-col7.png",
+    "sha256": "d76e82c6dcef57d289372ca6496b27bc5df1c01018c7eb715abbc31c8c8311e1",
+    "listed_filename": "phoi-canh-cua-thep-NG-02.png"
+  },
+  {
+    "excel_row": 13,
+    "excel_column": 5,
+    "file": "VVD-NG-KDJ.png",
+    "sha256": "b22a87f545b94ee7a4d80390f70f811bad9d13e96c1bcc19c7965c300aad6b15",
+    "listed_filename": "VVD-NG-KDJ.png"
+  },
+  {
+    "excel_row": 13,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-NG-01-row13-col6.png",
+    "sha256": "d1bb64a5b71219978ab72add9053c3d9f989e75038647bb4ff301ab05aa2a1ac",
+    "listed_filename": "phoi-canh-cua-thep-NG-01.png"
+  },
+  {
+    "excel_row": 13,
+    "excel_column": 7,
+    "file": "phoi-canh-cua-thep-NG-02-row13-col7.png",
+    "sha256": "d76e82c6dcef57d289372ca6496b27bc5df1c01018c7eb715abbc31c8c8311e1",
+    "listed_filename": "phoi-canh-cua-thep-NG-02.png"
+  },
+  {
+    "excel_row": 14,
+    "excel_column": 5,
+    "file": "VVD-JP-20.png",
+    "sha256": "4ce0a9c8b419b0927244687d6e2880776065777333767106a2481d3b9b554e5e",
+    "listed_filename": "VVD-JP-20.png"
+  },
+  {
+    "excel_row": 14,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 15,
+    "excel_column": 5,
+    "file": "VVD-JP-05.png",
+    "sha256": "d3e8ea0bb9d2291bbcff48c92270afda5aded7e947981f8263b94767798a12a8",
+    "listed_filename": "VVD-JP-05.png"
+  },
+  {
+    "excel_row": 15,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP-row15-col6.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 16,
+    "excel_column": 5,
+    "file": "VVD-JP-37.png",
+    "sha256": "0535885d71f135ca2abd05e8ee4267b52e253c69a127c920e518fd77b439dd88",
+    "listed_filename": "VVD-JP-37.png"
+  },
+  {
+    "excel_row": 16,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP-row16-col6.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 17,
+    "excel_column": 5,
+    "file": "VVD-JP-JH.png",
+    "sha256": "79d00176a8d5dd907dfa17c810c2ffa29326e679cbd1723329a0b59ec7dc5fec",
+    "listed_filename": "VVD-JP-JH.png"
+  },
+  {
+    "excel_row": 17,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP-row17-col6.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 18,
+    "excel_column": 5,
+    "file": "VVD-JP-JJ.png",
+    "sha256": "ea6f465b3ffb7da7c01e4e357fd1adb70d44df82b8bf42a272db7b9591398b4c",
+    "listed_filename": "VVD-JP-JJ.png"
+  },
+  {
+    "excel_row": 18,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP-row18-col6.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 19,
+    "excel_column": 5,
+    "file": "VVD-JP-18.png",
+    "sha256": "fcfd148e35794cbeb11b8581e793b714a209aae978f67ac825b53ae5df0609a5",
+    "listed_filename": "VVD-JP-18.png"
+  },
+  {
+    "excel_row": 19,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP-row19-col6.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 20,
+    "excel_column": 5,
+    "file": "VVD-JP-50.png",
+    "sha256": "a95e74ad9a734e3af7f3770b068d8d2dd54ca747a52fdafebc5ef92cb6b0d215",
+    "listed_filename": "VVD-JP-50.png"
+  },
+  {
+    "excel_row": 20,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP-row20-col6.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 21,
+    "excel_column": 5,
+    "file": "VVD-JP-17.png",
+    "sha256": "a53ee976a88e02e3f55bcdb26075ff95b3ebeef06f3841e00ca9365895922699",
+    "listed_filename": "VVD-JP-17.png"
+  },
+  {
+    "excel_row": 21,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP-row21-col6.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 22,
+    "excel_column": 5,
+    "file": "VVD-JP-16.png",
+    "sha256": "0aa7bd8ac274ae5ad63599a6edf9280a45f733c5bc89fc6db23d464b258231b7",
+    "listed_filename": "VVD-JP-16.png"
+  },
+  {
+    "excel_row": 22,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP-row22-col6.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 23,
+    "excel_column": 5,
+    "file": "VVD-JP-11.png",
+    "sha256": "e70cf1bcc7b71abc447e046bb8b80391b0ba51aa8f778ab5107aeb70853b6b2c",
+    "listed_filename": "VVD-JP-11.png"
+  },
+  {
+    "excel_row": 23,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP-row23-col6.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 24,
+    "excel_column": 5,
+    "file": "VVD-JP-08.png",
+    "sha256": "0f6bbb72b31acbccb0ff5d82a85e55a72bd90aeb68103c15151cd934a35e875c",
+    "listed_filename": "VVD-JP-08.png"
+  },
+  {
+    "excel_row": 24,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP-row24-col6.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 25,
+    "excel_column": 5,
+    "file": "VVD-JP-06.png",
+    "sha256": "7863532614e90fb1b8bb95b6754bed665aa76ae2895b4c86670bb6a8dd43af8b",
+    "listed_filename": "VVD-JP-06.png"
+  },
+  {
+    "excel_row": 25,
+    "excel_column": 6,
+    "file": "phoi-canh-cua-thep-JP-row25-col6.png",
+    "sha256": "24b8b6f435e745088e31de4e72142ef61d6edac70bc80ca6e8fb2d77d0b637e3",
+    "listed_filename": "phoi-canh-cua-thep-JP.png"
+  },
+  {
+    "excel_row": 28,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-VVD-FD01.png",
+    "sha256": "27a2e0ab69ef4f31b2a32d449e32fada1f933bf69eedfc1660695df0b08ce063",
+    "listed_filename": "Ảnh đại diện danh mục: VVD-FD01.png"
+  },
+  {
+    "excel_row": 30,
+    "excel_column": 5,
+    "file": "VVD-FD01.png",
+    "sha256": "27a2e0ab69ef4f31b2a32d449e32fada1f933bf69eedfc1660695df0b08ce063",
+    "listed_filename": "VVD-FD01.png"
+  },
+  {
+    "excel_row": 30,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 30,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-01.png",
+    "sha256": "9ef83141c1ffef3a18b25732a7ef18f1590011430a78169c8e78a1aae40ecb5e",
+    "listed_filename": "cong-trinh-cua-chong-chay-01.png"
+  },
+  {
+    "excel_row": 31,
+    "excel_column": 5,
+    "file": "VVD-FD02.png",
+    "sha256": "d0cec74a8d33e23651884c4b4cdb2175040c20d7e263ad4401f596b8bcfe5d0b",
+    "listed_filename": "VVD-FD02.png"
+  },
+  {
+    "excel_row": 31,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row31-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 31,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-02.png",
+    "sha256": "888f0007026fa328703a2de3ef8327ad3c2ae8edc0a95e9d8e32518f6d2a8814",
+    "listed_filename": "cong-trinh-cua-chong-chay-02.png"
+  },
+  {
+    "excel_row": 32,
+    "excel_column": 5,
+    "file": "VVD-FD03.png",
+    "sha256": "25cac7829b431b3e4580e5e77449faa54b31f6301495f80b4c0390b57d6b7eec",
+    "listed_filename": "VVD-FD03.png"
+  },
+  {
+    "excel_row": 32,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row32-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 32,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-03.jpg",
+    "sha256": "c3c837e86e5ab5bbddcad29cb18676cbab844a3a8f1f006e00bd6b2903d6b75d",
+    "listed_filename": "cong-trinh-cua-chong-chay-03.jpg"
+  },
+  {
+    "excel_row": 33,
+    "excel_column": 5,
+    "file": "VVD-FD04.png",
+    "sha256": "18bc2445b0e2259f4eb7b729a74249c4cad5c54f636290d19d0482e91947cf52",
+    "listed_filename": "VVD-FD04.png"
+  },
+  {
+    "excel_row": 33,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row33-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 33,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-01-row33-col7.png",
+    "sha256": "9ef83141c1ffef3a18b25732a7ef18f1590011430a78169c8e78a1aae40ecb5e",
+    "listed_filename": "cong-trinh-cua-chong-chay-01.png"
+  },
+  {
+    "excel_row": 34,
+    "excel_column": 5,
+    "file": "VVD-FD05.png",
+    "sha256": "5dd0e9500c221b0d49b10f2122b7cb2f1ad58a741355ffc80e6763908af2031b",
+    "listed_filename": "VVD-FD05.png"
+  },
+  {
+    "excel_row": 34,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row34-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 34,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-02-row34-col7.png",
+    "sha256": "888f0007026fa328703a2de3ef8327ad3c2ae8edc0a95e9d8e32518f6d2a8814",
+    "listed_filename": "cong-trinh-cua-chong-chay-02.png"
+  },
+  {
+    "excel_row": 35,
+    "excel_column": 5,
+    "file": "VDD-AS2.png",
+    "sha256": "5ffe7e1940d3134bb131be637c4cf9776ad9ed4e12f774cf97afbd99722baa59",
+    "listed_filename": "VDD-AS2.png"
+  },
+  {
+    "excel_row": 35,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row35-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 35,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-04.jpg",
+    "sha256": "cfa0b1d31aca44d6b294691fdc4793979ac10bcd78df11de9ccd570029575261",
+    "listed_filename": "cong-trinh-cua-chong-chay-04.jpg"
+  },
+  {
+    "excel_row": 36,
+    "excel_column": 5,
+    "file": "VVD-AS3.png",
+    "sha256": "6595e61a2037fa7e181d8f6b2f67bb760472a037427218561ccb95013a4b5271",
+    "listed_filename": "VVD-AS3.png"
+  },
+  {
+    "excel_row": 36,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row36-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 36,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-07.jpg",
+    "sha256": "7411fe4e7b50c7aca2cea4f5ef74f64d6f69454a16001621182b8c6c25230882",
+    "listed_filename": "cong-trinh-cua-chong-chay-07.jpg"
+  },
+  {
+    "excel_row": 37,
+    "excel_column": 5,
+    "file": "VVD-AS5.png",
+    "sha256": "7d8c0a82c77debc1151ec6321836a87bebfc066fd799bd7e251e09cef6b0e1a3",
+    "listed_filename": "VVD-AS5.png"
+  },
+  {
+    "excel_row": 37,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row37-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 37,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-04-row37-col7.jpg",
+    "sha256": "cfa0b1d31aca44d6b294691fdc4793979ac10bcd78df11de9ccd570029575261",
+    "listed_filename": "cong-trinh-cua-chong-chay-04.jpg"
+  },
+  {
+    "excel_row": 38,
+    "excel_column": 5,
+    "file": "VVD-JP-25.png",
+    "sha256": "13081d5ad9c41263892ed0e6d247da5f71f7c462027fdeb9b1099cf2de1e59e6",
+    "listed_filename": "VVD-JP-25.png"
+  },
+  {
+    "excel_row": 38,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row38-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 38,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-07-row38-col7.jpg",
+    "sha256": "7411fe4e7b50c7aca2cea4f5ef74f64d6f69454a16001621182b8c6c25230882",
+    "listed_filename": "cong-trinh-cua-chong-chay-07.jpg"
+  },
+  {
+    "excel_row": 39,
+    "excel_column": 5,
+    "file": "VVD-JP-02.png",
+    "sha256": "a08e098e650b2066cb853a35735eb35be14a805dcdddcb56f836150798fd0500",
+    "listed_filename": "VVD-JP-02.png"
+  },
+  {
+    "excel_row": 39,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row39-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 39,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-04-row39-col7.jpg",
+    "sha256": "cfa0b1d31aca44d6b294691fdc4793979ac10bcd78df11de9ccd570029575261",
+    "listed_filename": "cong-trinh-cua-chong-chay-04.jpg"
+  },
+  {
+    "excel_row": 40,
+    "excel_column": 5,
+    "file": "VDD-D-02.png",
+    "sha256": "f424a9d48618fa436a4a65515b6f771d66f86b110cf3f6f8a4a3af680f2557f8",
+    "listed_filename": "VDD-D-02.png"
+  },
+  {
+    "excel_row": 40,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row40-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 40,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-05.jpg",
+    "sha256": "d7bc02cb0a7da38e882f5d1705d589018e19b88159f21a3104af074c6aadd359",
+    "listed_filename": "cong-trinh-cua-chong-chay-05.jpg"
+  },
+  {
+    "excel_row": 41,
+    "excel_column": 5,
+    "file": "VVD-01.png",
+    "sha256": "c99f600cc37bc6bfafaaf0211c5a5f23ccbca9ae98d5898cb9f0617cbafff32c",
+    "listed_filename": "VVD-01.png"
+  },
+  {
+    "excel_row": 41,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row41-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 41,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-06.jpg",
+    "sha256": "0d28cfc018dba6ea40df0911ca6c29bc29a5c4f96feb033df20db6630cb200f4",
+    "listed_filename": "cong-trinh-cua-chong-chay-06.jpg"
+  },
+  {
+    "excel_row": 42,
+    "excel_column": 5,
+    "file": "VDD-D-01.png",
+    "sha256": "819e0a0cf8660c6ebd7e1945f5987e3b1970fcadb93765d73a09fd8d2ab1ba61",
+    "listed_filename": "VDD-D-01.png"
+  },
+  {
+    "excel_row": 42,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row42-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 42,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-08.jpg",
+    "sha256": "beda8148ddebb7dd5d57cbe1926436867fdcfefe2c651248155e96d7334d2d2f",
+    "listed_filename": "cong-trinh-cua-chong-chay-08.jpg"
+  },
+  {
+    "excel_row": 43,
+    "excel_column": 5,
+    "file": "VVD-04.png",
+    "sha256": "fcf1f37297288544fa4ac8b20fb324d43f591e987d18f60fd8077eca30bab6c5",
+    "listed_filename": "VVD-04.png"
+  },
+  {
+    "excel_row": 43,
+    "excel_column": 6,
+    "file": "cau-tao-cua-chong-chay-row43-col6.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 43,
+    "excel_column": 7,
+    "file": "cong-trinh-cua-chong-chay-07-row43-col7.jpg",
+    "sha256": "7411fe4e7b50c7aca2cea4f5ef74f64d6f69454a16001621182b8c6c25230882",
+    "listed_filename": "cong-trinh-cua-chong-chay-07.jpg"
+  },
+  {
+    "excel_row": 44,
+    "excel_column": 5,
+    "file": "cau-tao-cua-chong-chay-row44-col5.png",
+    "sha256": "d14dd93ce31555e012fb79d09cb8dfb8f4e844eabe93a9c04627ff2f7e0d2b26",
+    "listed_filename": "cau-tao-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 45,
+    "excel_column": 5,
+    "file": "ban-ve-cua-chong-chay.png",
+    "sha256": "ba463760a786f2cc863e4bce4469987780466040983ac9f4eafc4711ee0e30c7",
+    "listed_filename": "ban-ve-cua-chong-chay.png"
+  },
+  {
+    "excel_row": 48,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-cua-cuon-chong-chay.png",
+    "sha256": "22de5b3e8206e1dc0b44598517c151e4dbb83e7a8178b8ee3f8642a89b1ae46a",
+    "listed_filename": "Ảnh đại diện danh mục: cua-cuon-chong-chay.png"
+  },
+  {
+    "excel_row": 50,
+    "excel_column": 5,
+    "file": "cua-cuon-chong-chay.png",
+    "sha256": "22de5b3e8206e1dc0b44598517c151e4dbb83e7a8178b8ee3f8642a89b1ae46a",
+    "listed_filename": "cua-cuon-chong-chay.png"
+  },
+  {
+    "excel_row": 53,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-vivaio_switch_4_colours.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "Ảnh đại diện danh mục: vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 55,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-1.png",
+    "sha256": "de5b3c9c5287b4db2ee0c15afd0183cdcbf6ce156565dd09fb3f8eb3f054c2d1",
+    "listed_filename": "vivaio_VVS10-1.png"
+  },
+  {
+    "excel_row": 55,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 56,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-2.png",
+    "sha256": "16f919203ec6b2e7c0826a54034c0a88e39ff4d4ddc2d790e50785f517e5e443",
+    "listed_filename": "vivaio_VVS10-2.png"
+  },
+  {
+    "excel_row": 56,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row56-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 57,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-3.png",
+    "sha256": "895dd7a92358510fc4099c9e3e4c270e844f713b8758e778eb3fc16e60269c17",
+    "listed_filename": "vivaio_VVS10-3.png"
+  },
+  {
+    "excel_row": 57,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row57-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 58,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-4.png",
+    "sha256": "f4459719bb0b063af48e82ef2a5ab666ab6eec78b37e0b52240298aa75b3158b",
+    "listed_filename": "vivaio_VVS10-4.png"
+  },
+  {
+    "excel_row": 58,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row58-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 59,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-ML.png",
+    "sha256": "44cef9c7e1832f94a4cd66475552e3fa9b7d881f6609f31b6843c714b2e1016e",
+    "listed_filename": "vivaio_VVS10-ML.png"
+  },
+  {
+    "excel_row": 59,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row59-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 60,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-33.png",
+    "sha256": "b784dfe1522f7ee88a2c1a22de58c169628b19839587c1057b981078b24ed884",
+    "listed_filename": "vivaio_VVS10-33.png"
+  },
+  {
+    "excel_row": 60,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row60-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 61,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-CM.png",
+    "sha256": "a0e41a64108446cbaee694937baf9febd5fecc9417c2573df6c285363ef667d1",
+    "listed_filename": "vivaio_VVS10-CM.png"
+  },
+  {
+    "excel_row": 61,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row61-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 62,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-1-CM100W.png",
+    "sha256": "fbb9ffcbd0658b708a26edd69a2bc61f16bbbbdd27f4dd464c70fc82b6a451b9",
+    "listed_filename": "vivaio_VVS10-1-CM100W.png"
+  },
+  {
+    "excel_row": 62,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row62-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 63,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-TS.png",
+    "sha256": "7f577532fc4436c1d555d1bc352f024c638e8a73e123e3f6cec334c76d34c0f7",
+    "listed_filename": "vivaio_VVS10-TS.png"
+  },
+  {
+    "excel_row": 63,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row63-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 64,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-1-TS100W.png",
+    "sha256": "a5b6f8d11cb52cceee80b02ef603d28c35874c9fe55cd1090897865564585c64",
+    "listed_filename": "vivaio_VVS10-1-TS100W.png"
+  },
+  {
+    "excel_row": 64,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row64-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 65,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-B.png",
+    "sha256": "04bddf08ea7c45232376dcd38315ebf456afd51ad7faaee636d3b9ef59818c94",
+    "listed_filename": "vivaio_VVS10-B.png"
+  },
+  {
+    "excel_row": 65,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row65-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 66,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-0-5.png",
+    "sha256": "f19a0376b9eb25259827d5133ed431ec40b8d6a05362b8ba55b977a6d1261d4d",
+    "listed_filename": "vivaio_VVS10-0-5.png"
+  },
+  {
+    "excel_row": 66,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row66-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 67,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-1-3.png",
+    "sha256": "814e2ecd242692dc4e39ae82e28f0fd247c4b551244a625a13087c5a8f536b8b",
+    "listed_filename": "vivaio_VVS10-1-3.png"
+  },
+  {
+    "excel_row": 67,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row67-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 68,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-1-5.png",
+    "sha256": "2ae7ff8ee883c358644e063ffad7017de945abdcd7c43df7a3d9e41ef9995611",
+    "listed_filename": "vivaio_VVS10-1-5.png"
+  },
+  {
+    "excel_row": 68,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row68-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 69,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-5-USBC.png",
+    "sha256": "ba35b1423a5ce328fc5e6752258ba8592b00c9b89dd0bd03120025e43a07944b",
+    "listed_filename": "vivaio_VVS10-5-USBC.png"
+  },
+  {
+    "excel_row": 69,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row69-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 70,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-1-3USBC.png",
+    "sha256": "05f472b12ba0ac286306e0f2a0a04a7110ff9bc918855261acce27804e3a345b",
+    "listed_filename": "vivaio_VVS10-1-3USBC.png"
+  },
+  {
+    "excel_row": 70,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row70-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 71,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-PC2.png",
+    "sha256": "338202724ba41484106cad3be4c4b216e97e5b9ad7f1e100e7b87a0abed56cfb",
+    "listed_filename": "vivaio_VVS10-PC2.png"
+  },
+  {
+    "excel_row": 71,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row71-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 72,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-U-HD.png",
+    "sha256": "fb21c73890f7d6e858d2518e1efb3f4edea0c0f29383a3c3b7f5624fd142b54c",
+    "listed_filename": "vivaio_VVS10-U-HD.png"
+  },
+  {
+    "excel_row": 72,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row72-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 73,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-KC.png",
+    "sha256": "a3104f6196adf2be8a72f1095f084ab2be97d68bf51c714eca16c10699d8e979",
+    "listed_filename": "vivaio_VVS10-KC.png"
+  },
+  {
+    "excel_row": 73,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row73-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 74,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-DC.png",
+    "sha256": "2ead2e825c9d011bda02b39c499f596b0e0ed3cbf7e9dd2dfea2969f1b3be35d",
+    "listed_filename": "vivaio_VVS10-DC.png"
+  },
+  {
+    "excel_row": 74,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row74-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 75,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-BS.png",
+    "sha256": "90d719f19139d0a40d0db69d86cd4de361e2be5135b995cc4a07e28bc752b862",
+    "listed_filename": "vivaio_VVS10-BS.png"
+  },
+  {
+    "excel_row": 75,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row75-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 76,
+    "excel_column": 5,
+    "file": "vivaio_VVS10-BJ.png",
+    "sha256": "7bf4705e1b6b59fdd7a39be5ae5e29390c8b44a4e8fdc8bbf90068c741f0d508",
+    "listed_filename": "vivaio_VVS10-BJ.png"
+  },
+  {
+    "excel_row": 76,
+    "excel_column": 6,
+    "file": "vivaio_switch_4_colours-row76-col6.png",
+    "sha256": "936da2d09b9763ac27d23ef1289fc07796caad5eba6dbc0ebba9b79249ece6d6",
+    "listed_filename": "vivaio_switch_4_colours.png"
+  },
+  {
+    "excel_row": 79,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-vivaio_cat6_utp_cable.png",
+    "sha256": "6d5a4923bada30b570f7478642ba9fd8b72b291da3b76caabbd3712cc2755d09",
+    "listed_filename": "Ảnh đại diện danh mục: vivaio_cat6_utp_cable.png"
+  },
+  {
+    "excel_row": 81,
+    "excel_column": 5,
+    "file": "vivaio_cat6_utp_cable.png",
+    "sha256": "6d5a4923bada30b570f7478642ba9fd8b72b291da3b76caabbd3712cc2755d09",
+    "listed_filename": "vivaio_cat6_utp_cable.png"
+  },
+  {
+    "excel_row": 84,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-vivaio_patch_panel.png",
+    "sha256": "95e27e2fdf4597ded9e03477533fde114a950da99177d06d31a7b003395bb680",
+    "listed_filename": "Ảnh đại diện danh mục: vivaio_patch_panel.png"
+  },
+  {
+    "excel_row": 86,
+    "excel_column": 5,
+    "file": "vivaio_cat6_patch_cord.png",
+    "sha256": "91c1a15a01409ef7a109e004ecbb037f44b32cdea82e1a6f93bb7680419f3f64",
+    "listed_filename": "vivaio_cat6_patch_cord.png"
+  },
+  {
+    "excel_row": 87,
+    "excel_column": 5,
+    "file": "vivaio_patch_panel.png",
+    "sha256": "95e27e2fdf4597ded9e03477533fde114a950da99177d06d31a7b003395bb680",
+    "listed_filename": "vivaio_patch_panel.png"
+  },
+  {
+    "excel_row": 88,
+    "excel_column": 5,
+    "file": "vivaio_keystone_unshielded.png",
+    "sha256": "8a7bdc6cafd5983a11e74abdfff2c5ceb5539d0aa1a8b50a15af4dd3f03b487e",
+    "listed_filename": "vivaio_keystone_unshielded.png"
+  },
+  {
+    "excel_row": 89,
+    "excel_column": 5,
+    "file": "vivaio_keystone_shielded.png",
+    "sha256": "eb1e3e453071d94081557950d08570c4a91c7793abd949f1f90d670947a5ce99",
+    "listed_filename": "vivaio_keystone_shielded.png"
+  },
+  {
+    "excel_row": 90,
+    "excel_column": 5,
+    "file": "vivaio_faceplate_1port.png",
+    "sha256": "0887efb50a8022bb4ba94fcdbe5b3a40a5799191ad10b46cbf966575be7a5a06",
+    "listed_filename": "vivaio_faceplate_1port.png"
+  },
+  {
+    "excel_row": 90,
+    "excel_column": 6,
+    "file": "vivaio_faceplate_2port.png",
+    "sha256": "e51551b95752ff9e034eaeb1c4c09cad0f7a6af4c642e0b4363ba66eec605ce1",
+    "listed_filename": "vivaio_faceplate_2port.png"
+  },
+  {
+    "excel_row": 90,
+    "excel_column": 7,
+    "file": "vivaio_back_box_86.png",
+    "sha256": "5b71f17ab5748d2d5aba48537d78fb6e6a6b159a7d544905039a8690b247faa5",
+    "listed_filename": "vivaio_back_box_86.png"
+  },
+  {
+    "excel_row": 93,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-vivaio_fiber_indoor_cross_section.png",
+    "sha256": "93f20e28fcb43f607b74b6032a545681ade0e76c646aeb3cf20421763728cf21",
+    "listed_filename": "Ảnh đại diện danh mục: vivaio_fiber_indoor_cross_section.png"
+  },
+  {
+    "excel_row": 95,
+    "excel_column": 5,
+    "file": "vivaio_fiber_indoor_cross_section.png",
+    "sha256": "93f20e28fcb43f607b74b6032a545681ade0e76c646aeb3cf20421763728cf21",
+    "listed_filename": "vivaio_fiber_indoor_cross_section.png"
+  },
+  {
+    "excel_row": 95,
+    "excel_column": 6,
+    "file": "vivaio_fiber_indoor_cable.png",
+    "sha256": "79109153f0735496420861a6dbc05129aa7c7916c36c77f793b27bff79b4cc2b",
+    "listed_filename": "vivaio_fiber_indoor_cable.png"
+  },
+  {
+    "excel_row": 96,
+    "excel_column": 5,
+    "file": "vivaio_fiber_outdoor_cable.png",
+    "sha256": "db45a7870f178a74ffda826a7a6c337ee4634b3edb3b078ddb0e0ebd73a510d1",
+    "listed_filename": "vivaio_fiber_outdoor_cable.png"
+  },
+  {
+    "excel_row": 99,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-vivaio_odf_patch_panel_01.png",
+    "sha256": "1cf3484934b2ea397f1238a3768c3f51b1e4c2aaf03a74d9b0aff285dcb19044",
+    "listed_filename": "Ảnh đại diện danh mục: vivaio_odf_patch_panel_01.png"
+  },
+  {
+    "excel_row": 101,
+    "excel_column": 5,
+    "file": "vivaio_odf_patch_panel_01.png",
+    "sha256": "1cf3484934b2ea397f1238a3768c3f51b1e4c2aaf03a74d9b0aff285dcb19044",
+    "listed_filename": "vivaio_odf_patch_panel_01.png"
+  },
+  {
+    "excel_row": 101,
+    "excel_column": 6,
+    "file": "vivaio_odf_patch_panel_02.png",
+    "sha256": "03cc17db44dac7feb691d1f316c58795289917c62664dacf5ce7d43349f3d478",
+    "listed_filename": "vivaio_odf_patch_panel_02.png"
+  },
+  {
+    "excel_row": 104,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-vivaio_fiber_patch_cord.png",
+    "sha256": "04b8340b4cdf186c63e14a98480ef8b50192e08227d430cf293291fcd480ff82",
+    "listed_filename": "Ảnh đại diện danh mục: vivaio_fiber_patch_cord.png"
+  },
+  {
+    "excel_row": 106,
+    "excel_column": 5,
+    "file": "vivaio_fiber_patch_cord.png",
+    "sha256": "04b8340b4cdf186c63e14a98480ef8b50192e08227d430cf293291fcd480ff82",
+    "listed_filename": "vivaio_fiber_patch_cord.png"
+  },
+  {
+    "excel_row": 106,
+    "excel_column": 6,
+    "file": "vivaio_fiber_pigtail.png",
+    "sha256": "c5a616851a773dd6c5f6688470a1b23a9b6fcc4cc6649b943f18e9c8099c85a5",
+    "listed_filename": "vivaio_fiber_pigtail.png"
+  },
+  {
+    "excel_row": 107,
+    "excel_column": 5,
+    "file": "vivaio_fiber_pigtail-row107-col5.png",
+    "sha256": "c5a616851a773dd6c5f6688470a1b23a9b6fcc4cc6649b943f18e9c8099c85a5",
+    "listed_filename": "vivaio_fiber_pigtail.png"
+  },
+  {
+    "excel_row": 107,
+    "excel_column": 6,
+    "file": "vivaio_fiber_patch_cord-row107-col6.png",
+    "sha256": "04b8340b4cdf186c63e14a98480ef8b50192e08227d430cf293291fcd480ff82",
+    "listed_filename": "vivaio_fiber_patch_cord.png"
+  },
+  {
+    "excel_row": 111,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-vivaio_data_center_cabinet.png",
+    "sha256": "f0a29de5a43f12009653b066ed281633039122ea3cee30280ac041e22a89e593",
+    "listed_filename": "Ảnh đại diện danh mục: vivaio_data_center_cabinet.png"
+  },
+  {
+    "excel_row": 113,
+    "excel_column": 5,
+    "file": "vivaio_wall_cabinet_01.png",
+    "sha256": "3872891e68358ec8714fe09acea44fdea6dcab4650e8066481607b5463818355",
+    "listed_filename": "vivaio_wall_cabinet_01.png"
+  },
+  {
+    "excel_row": 113,
+    "excel_column": 6,
+    "file": "vivaio_wall_cabinet_02.png",
+    "sha256": "d1270f4a9fafdb6ab8878b22d5e4710c6d14f40e530d011bee014ca51ac35e80",
+    "listed_filename": "vivaio_wall_cabinet_02.png"
+  },
+  {
+    "excel_row": 114,
+    "excel_column": 5,
+    "file": "vivaio_data_center_cabinet.png",
+    "sha256": "f0a29de5a43f12009653b066ed281633039122ea3cee30280ac041e22a89e593",
+    "listed_filename": "vivaio_data_center_cabinet.png"
+  },
+  {
+    "excel_row": 117,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-vivaio_elv_box_vvs_01.png",
+    "sha256": "08acb6a27e4f13cc7e6a416f8c30bd40c8e46156e81398a47d5a305c4383044b",
+    "listed_filename": "Ảnh đại diện danh mục: vivaio_elv_box_vvs_01.png"
+  },
+  {
+    "excel_row": 119,
+    "excel_column": 5,
+    "file": "vivaio_elv_box_vvs_01.png",
+    "sha256": "08acb6a27e4f13cc7e6a416f8c30bd40c8e46156e81398a47d5a305c4383044b",
+    "listed_filename": "vivaio_elv_box_vvs_01.png"
+  },
+  {
+    "excel_row": 119,
+    "excel_column": 6,
+    "file": "vivaio_elv_box_vvs_02.png",
+    "sha256": "f58dcf76e43d21817e201858a09232d6882a4597586514732966ee1b930785ef",
+    "listed_filename": "vivaio_elv_box_vvs_02.png"
+  },
+  {
+    "excel_row": 120,
+    "excel_column": 5,
+    "file": "vivaio_elv_box_vvo_01.png",
+    "sha256": "c36635a43545f297d2461af70633a287ed133afe0725d5cc4084ff6afa3c375e",
+    "listed_filename": "vivaio_elv_box_vvo_01.png"
+  },
+  {
+    "excel_row": 120,
+    "excel_column": 6,
+    "file": "vivaio_elv_box_vvo_02.png",
+    "sha256": "d7faee55548e7ed60ac156704dc9bae52da15196f857c402db0505d3d8163afe",
+    "listed_filename": "vivaio_elv_box_vvo_02.png"
+  },
+  {
+    "excel_row": 123,
+    "excel_column": 5,
+    "file": "nh-i-di-n-danh-m-c-vivaio_speaker_security_cable.png",
+    "sha256": "bca9b3d3f367ae0372ff5db4393f560acdbc26345f003568296039b7be609a6f",
+    "listed_filename": "Ảnh đại diện danh mục: vivaio_speaker_security_cable.png"
+  },
+  {
+    "excel_row": 125,
+    "excel_column": 5,
+    "file": "vivaio_speaker_security_cable.png",
+    "sha256": "bca9b3d3f367ae0372ff5db4393f560acdbc26345f003568296039b7be609a6f",
+    "listed_filename": "vivaio_speaker_security_cable.png"
+  }
+]

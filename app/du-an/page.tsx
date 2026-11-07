@@ -1164,7 +1164,7 @@ export default function DuAnPage() {
         </div>
       </section>
 
-      {/* WHY INTES */}
+      {/* WHY VIVAFIRE */}
       <section className="mx-auto max-w-7xl px-5 py-16 sm:py-20 lg:px-8">
         <div className="grid gap-10 lg:grid-cols-[1fr_1fr] lg:items-center">
           <div className="relative min-h-[300px] overflow-hidden rounded-2xl bg-[#FFF4E8] sm:min-h-[380px]">
@@ -1178,12 +1178,12 @@ export default function DuAnPage() {
             />
             <div className="absolute inset-0 bg-gradient-to-r from-[#19202B]/55 via-[#19202B]/10 to-transparent" />
             <div className="absolute bottom-6 left-6 max-w-xs text-white sm:bottom-8 sm:left-8">
-              <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#FCE8D6]">INTES · Industrial Solutions</p>
+              <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#FCE8D6]">VIVAFIRE · Industrial Solutions</p>
               <p className="mt-3 text-2xl font-semibold leading-snug">Đồng hành cùng nhu cầu thực tế</p>
             </div>
           </div>
           <div>
-            <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#FF8B14]">Vì sao chọn INTES</p>
+            <p className="text-xs font-bold uppercase tracking-[0.2em] text-[#FF8B14]">Vì sao chọn VIVAFIRE</p>
             <h2 className="mt-3 text-3xl font-semibold leading-tight text-slate-900 sm:text-4xl">
               Tập trung vào yêu cầu thực tế của từng công trình
             </h2>
@@ -1226,7 +1226,7 @@ export default function DuAnPage() {
               Bạn đang chuẩn bị dự án mới?
             </h2>
             <p className="mt-4 max-w-2xl leading-7 text-slate-600">
-              Chia sẻ loại công trình, nhu cầu thiết bị hoặc hồ sơ kỹ thuật để bắt đầu trao đổi cùng INTES.
+              Chia sẻ loại công trình, nhu cầu thiết bị hoặc hồ sơ kỹ thuật để bắt đầu trao đổi cùng VIVAFIRE.
             </p>
           </div>
           <Link
